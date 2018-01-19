@@ -11,7 +11,6 @@ import java.util.List;
 /**
  * 
  * @author Simeon Bikorimana
- * @Student ID#: N19909465
  *
  */
 
@@ -56,7 +55,7 @@ public class DataHandlerRun {
 			dataHand.sortedDataMap.put(d.getDate(), d);
 		}
 
-		// (3). Calling the DataHandler object’s correctPrices method
+		// (3). Calling the DataHandler objectâ€™s correctPrices method
 		// specifying the corrections.csv file as the source of the corrections
 
 		if (dataHand.isInvalidFilePath(corrections)) {
