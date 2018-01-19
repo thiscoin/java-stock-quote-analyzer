@@ -12,8 +12,8 @@
  
  1. Replace prices variable with the path of your prices file
  
-   ex: C:\\Users\\Simeon\\Dropbox\\APPLICATIONS\\SUMMER_HW\\prices.csv (on windows)
-       /Users/Simeon/Dropbox/APPLICATIONS/SUMMER_HW/prices.csv (mac/linux)
+   ex: C:\\Users\\Simeon\\Dropbox\\prices.csv (on windows)
+       /Users/Simeon/Dropbox/prices.csv (mac/linux)
        
  2. Replace corrections variable with the path of your corrections file  
  
